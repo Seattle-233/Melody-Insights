@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="18%" align="center" src="https://raw.githubusercontent.com/Seattle-233/Melody-Insights/main/QyQt_UI/main/gallery/app/resource/images/logo_red.png" alt="logo">
+  <img width="18%" align="center" src="https://raw.githubusercontent.com/Seattle-233/Melody-Insights/main/PyQt_UI/main/gallery/app/resource/images/logo_red.png" alt="logo">
 </p>
   <h1 align="center">
   Melody Insights
