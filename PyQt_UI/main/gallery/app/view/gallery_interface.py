@@ -6,7 +6,7 @@ from PyQt5.QtWebEngineWidgets import QWebEngineView
 
 from qfluentwidgets import (ScrollArea, PushButton, ToolButton, FluentIcon,
                             isDarkTheme, IconWidget, Theme, ToolTipFilter)
-from ..common.config import cfg, FEEDBACK_URL, HELP_URL, EXAMPLE_URL
+from ..common.config import cfg, FEEDBACK_URL, HELP_URL, SUPPORT_URL, EXAMPLE_URL
 from ..common.icon import Icon
 from ..common.style_sheet import StyleSheet
 from ..common.signal_bus import signalBus

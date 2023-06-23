@@ -51,13 +51,13 @@ class Config(QConfig):
 YEAR = 2023
 AUTHOR = "Seattle"
 VERSION = __version__
-HELP_URL = "https://pyqt-fluent-widgets.readthedocs.io/zh_CN/latest"
-REPO_URL = "https://github.com/zhiyiYo/PyQt-Fluent-Widgets"
-EXAMPLE_URL = "https://github.com/zhiyiYo/PyQt-Fluent-Widgets/tree/master/examples"
-FEEDBACK_URL = "https://github.com/zhiyiYo/PyQt-Fluent-Widgets/issues"
-RELEASE_URL = "https://github.com/zhiyiYo/PyQt-Fluent-Widgets/releases/latest"
-SUPPORT_URL = "https://afdian.net/a/zhiyiYo"
+HELP_URL = "https://github.com/Seattle-233/Melody-Insights/blob/main/README.md"
+REPO_URL = "https://github.com/Seattle-233/Melody-Insights"
+FEEDBACK_URL = "https://github.com/Seattle-233/Melody-Insights/issues"
+RELEASE_URL = "https://github.com/Seattle-233/Melody-Insights/releases/latest"
+SUPPORT_URL = "https://space.bilibili.com/95732672"
 BILI_URL = "https://space.bilibili.com/95732672"
+EXAMPLE_URL = "https://github.com/Seattle-233/Melody-Insights"
 
 
 
