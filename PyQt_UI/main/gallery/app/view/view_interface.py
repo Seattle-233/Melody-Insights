@@ -26,7 +26,7 @@ class ViewInterface(GalleryInterface):
         self.addExampleCard(
             title=self.tr('Your songs rank🎶'),
             widget=TableFrame(self),
-            sourcePath='https://github.com/zhiyiYo/PyQt-Fluent-Widgets/blob/master/examples/table_view/demo.py'
+            sourcePath=f'https://music.163.com/#/user/songs/rank?id={user.id}'
         )
 
         # # list view

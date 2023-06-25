@@ -2,7 +2,7 @@
 from PyQt5.QtCore import Qt, QEasingCurve
 from PyQt5.QtWidgets import QWidget, QStackedWidget, QVBoxLayout, QLabel
 from qfluentwidgets import Pivot, qrouter
-from PyQt5.QtWebEngineWidgets import QWebEngineView
+
 
 
 from .gallery_interface import GalleryInterface

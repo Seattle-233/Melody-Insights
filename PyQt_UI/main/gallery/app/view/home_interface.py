@@ -35,7 +35,7 @@ class BannerWidget(QWidget):
             r'app\resource\images\logo_red.png',
             self.tr('Getting started'),
             self.tr('An overview of Melody Insights.'),
-            REPO_URL
+            HELP_URL
         )
 
         self.linkCardView.addCard(
@@ -56,7 +56,7 @@ class BannerWidget(QWidget):
 
         self.linkCardView.addCard(
             r'app\resource\images\bili.png',
-            self.tr('Bilibili Channel'),
+            self.tr('Bilibili channel'),
             self.tr(
                 'Contact me on Bilibili! Subscribe to my channel!'),
             BILI_URL

@@ -41,7 +41,7 @@
 
 - NodeJS 12+
 - Python 3.0+
-- Python package: `requests`， `pyqt5`， `flask`
+- Python package: `requests`， `pyqt5`， `flask`, `stylecloud`, `jieba`
 
 ## 项目依赖的安装📥
 

@@ -12,8 +12,7 @@ from ..common.translator import Translator
 from ..common.style_sheet import StyleSheet
 from module.get_user_info import*
 
-# echarts test
-from PyQt5.QtWebEngineWidgets import QWebEngineView
+
 
 the_html_content ='''
 <!DOCTYPE html>
